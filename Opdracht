@@ -10,16 +10,5 @@ De tekst wordt na aanpassing op het scherm getoond
 Voorbeeld tekst:
 Er was eens een {{voorwerp}} diep in de {{plaats}}.
 
-In dit geval zijn de vragen:
-Voorwerp?
-Plaats?
-
-Het resultaat is dan de ingevulde antwoorden in de voorbeeld tekst.
-
-Inlever:
-Werkende java code inclussief tests met screenshots van de applicatie in werking en van het test rapport.
-De input file(s) die je hebt gebruikt.
-Zet alles in een zipfile met je studentenummer en naam.
-
 https://regexr.com/
 
